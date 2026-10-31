@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "mehran-grill",
+  "workers_dev": true,
   "main": "src/worker.js",
   "compatibility_date": "2026-10-01",
   "assets": {
