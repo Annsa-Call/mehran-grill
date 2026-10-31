@@ -1,0 +1,2 @@
+CREATE TRIGGER guard_reward_reservation BEFORE UPDATE OF order_id ON rewards WHEN NEW.order_id IS NOT NULL AND OLD.order_id IS NOT NEW.order_id AND OLD.status!='available' BEGIN SELECT RAISE(ABORT,'reward_reserved'); END;
+CREATE TRIGGER guard_offer_reservation BEFORE UPDATE OF redeemed_order_id ON recipients WHEN OLD.redeemed_order_id IS NOT NULL AND NEW.redeemed_order_id IS NOT NULL AND OLD.redeemed_order_id!=NEW.redeemed_order_id BEGIN SELECT RAISE(ABORT,'offer_reserved'); END;

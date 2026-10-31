@@ -1,0 +1,3 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const m=JSON.parse(fs.readFileSync('data/menu.json'));assert.equal(m.pages,14);assert.equal(m.items.length,143);assert.equal(m.categories.length,24);assert.equal(new Set(m.items.map(i=>i.id)).size,m.items.length);assert.equal(m.items.reduce((s,i)=>s+i.variants.length,0),169);for(const i of m.items){assert(m.categories.includes(i.category));assert(i.source_page>=2&&i.source_page<=13);for(const v of i.variants)assert(Number.isInteger(v.price)&&v.price>0);}
+console.log('Menu checks passed: 143 entries, 169 variants, 24 categories.');

@@ -1,0 +1,37 @@
+{
+  "name": "mehran-grill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --ip 127.0.0.1 --port 8787",
+    "build": "node scripts/build.mjs && wrangler deploy --dry-run --outdir dist-worker",
+    "check": "node scripts/lint.mjs && tsc --noEmit && node scripts/check-menu.mjs",
+    "test": "node --test tests/unit.test.mjs",
+    "test:integration": "node tests/run-integration.mjs",
+    "db:local": "wrangler d1 migrations apply mehran-grill --local",
+    "db:remote": "wrangler d1 migrations apply mehran-grill --remote",
+    "seed:local": "node scripts/seed.mjs && wrangler d1 execute mehran-grill --local --file=data/menu-seed.sql",
+    "demo:local": "node scripts/demo.mjs && wrangler d1 execute mehran-grill --local --file=data/demo-seed.sql",
+    "owner:local": "node scripts/create-owner.mjs --local",
+    "owner:remote": "node scripts/create-owner.mjs --remote",
+    "deploy": "npm run check && npm test && node scripts/build.mjs && wrangler deploy",
+    "lint": "node scripts/lint.mjs",
+    "test:e2e": "node tests/run-integration.mjs --browser",
+    "configure:cloudflare": "node scripts/configure-cloudflare.mjs",
+    "deploy:cloudflare": "node scripts/deploy-cloudflare.mjs"
+  },
+  "dependencies": {
+    "qrcode": "1.5.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@cloudflare/workers-types": "latest",
+    "@playwright/test": "^1.56.0",
+    "esbuild": "^0.25.0",
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0",
+    "typescript": "^5.9.3",
+    "wrangler": "4.156.0"
+  }
+}

@@ -1,0 +1,2880 @@
+{
+  "source": "https://share.google/3GxDRvmB2a2FiBBbS",
+  "sha256": "76e33d820b4141554b74f7d2d50ce507c501eb1c9fb63b66959ad7447687a20b",
+  "pages": 14,
+  "categories": [
+    "Appetizer",
+    "New Arrivals",
+    "Soups",
+    "Sajji",
+    "Handi",
+    "Chicken Karahi",
+    "Mutton Karahi",
+    "BBQ Platters",
+    "Chargha",
+    "BBQ Temptations",
+    "Chinese",
+    "Tawa",
+    "Add-ons",
+    "Sidelines",
+    "Tandoor",
+    "Dessert",
+    "Milk-based Mocktails",
+    "Fresh Juices",
+    "Craft Shakes",
+    "Beverages",
+    "Signature Mocktails",
+    "Coffee Frappes",
+    "Hot Coffee",
+    "Iced Coffee"
+  ],
+  "items": [
+    {
+      "id": "appetizer-chicken-cheese-strips",
+      "category": "Appetizer",
+      "name": "CHICKEN CHEESE STRIPS",
+      "description": "Crispy seasoned chicken strips pure satisfaction in every bite.",
+      "variants": [
+        {
+          "id": "appetizer-chicken-cheese-strips-0",
+          "name": "Regular",
+          "price": 105000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "appetizer-chicken-cheese-balls",
+      "category": "Appetizer",
+      "name": "CHICKEN CHEESE BALLS",
+      "description": "Tasty chicken bites with a cheesy surprise inside crispy. on the outside and deliciously satisfying.",
+      "variants": [
+        {
+          "id": "appetizer-chicken-cheese-balls-0",
+          "name": "Regular",
+          "price": 73000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "appetizer-cheese-naan",
+      "category": "Appetizer",
+      "name": "CHEESE NAAN",
+      "description": "Soft bread filed with gooey melted cheeses ofering a delightful combination of flavors and textures in every bite.",
+      "variants": [
+        {
+          "id": "appetizer-cheese-naan-0",
+          "name": "Regular",
+          "price": 85000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "appetizer-plain-fries",
+      "category": "Appetizer",
+      "name": "PLAIN FRIES",
+      "description": "Our Plain Fries are the kind of comtort food that never goes out of style",
+      "variants": [
+        {
+          "id": "appetizer-plain-fries-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "appetizer-masala-fries",
+      "category": "Appetizer",
+      "name": "MASALA FRIES",
+      "description": "Crispy fries tossed in our signature spice blend bold, zesty, and downright addictive!",
+      "variants": [
+        {
+          "id": "appetizer-masala-fries-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "appetizer-cheese-fries",
+      "category": "Appetizer",
+      "name": "CHEESE FRIES",
+      "description": "Golden fries loaded with rich, gooey cheese a cheesy delight in every bite!",
+      "variants": [
+        {
+          "id": "appetizer-cheese-fries-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "new-arrivals-matka-biryani",
+      "category": "New Arrivals",
+      "name": "MATKA BIRYANI",
+      "description": "Savor the rich, aromatic layers of our Matka Biryani slow-cooked to perfection in a traditional clay pot for an unforgetable flavor.",
+      "variants": [
+        {
+          "id": "new-arrivals-matka-biryani-0",
+          "name": "Regular",
+          "price": 185000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "new-arrivals-hunzai-kabab",
+      "category": "New Arrivals",
+      "name": "HUNZAI KABAB",
+      "description": "A taste of the mountains, perfectly seasoned and griled for an authentic Hunza-style delight!",
+      "variants": [
+        {
+          "id": "new-arrivals-hunzai-kabab-0",
+          "name": "Regular",
+          "price": 145000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "new-arrivals-mehran-signature-kebab",
+      "category": "New Arrivals",
+      "name": "MEHRAN SIGNATURE KEBAB",
+      "description": "Juicy chicken or beef kabab wrapped in soft naan dough, griled to perfection, then cut into pieces and served with crispy fries, fresh salad, and sauce",
+      "variants": [
+        {
+          "id": "new-arrivals-mehran-signature-kebab-0",
+          "name": "Regular",
+          "price": 143000
+        }
+      ],
+      "source_page": 2,
+      "source_note": " Also listed on page 2 / page 9 at the same price.",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "new-arrivals-mehran-classic-platter",
+      "category": "New Arrivals",
+      "name": "MEHRAN CLASSIC PLATTER",
+      "description": "A hearty combination platter featuring five signature grilled favorites: succulent Seekh Kabab, spiced Turkish Kabab, creamy Malai Boti, flavorful Chicken Behari Boti, and Chicken Behari with Bone. Served with fragrant rice, crispy fries, fresh salad, and signature sauce.",
+      "variants": [
+        {
+          "id": "new-arrivals-mehran-classic-platter-0",
+          "name": "Regular",
+          "price": 270000
+        }
+      ],
+      "source_page": 2,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "soups-chicken-corn-soup",
+      "category": "Soups",
+      "name": "CHICKEN CORN SOUP",
+      "description": "A comforting blend of tender chicken, sweet corn, and aromatic spices in a hearty broth.",
+      "variants": [
+        {
+          "id": "soups-chicken-corn-soup-0",
+          "name": "Single serving",
+          "price": 30000
+        },
+        {
+          "id": "soups-chicken-corn-soup-1",
+          "name": "Family bowl",
+          "price": 100000
+        }
+      ],
+      "source_page": 3,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "soups-hot-sour-soup",
+      "category": "Soups",
+      "name": "HOT & SOUR SOUP",
+      "description": "Tasty chicken bites with a cheesy surprise inside crispy. on the outside and deliciously satisfying.",
+      "variants": [
+        {
+          "id": "soups-hot-sour-soup-0",
+          "name": "Single serving",
+          "price": 35000
+        },
+        {
+          "id": "soups-hot-sour-soup-1",
+          "name": "Family bowl",
+          "price": 150000
+        }
+      ],
+      "source_page": 3,
+      "source_note": " Description appears mismatched in source PDF; owner confirmation needed.",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "sajji-chicken-sajji",
+      "category": "Sajji",
+      "name": "CHICKEN SAJJI",
+      "description": "Tender whole chicken marinated and slow-roasted to perfection, served with rice",
+      "variants": [
+        {
+          "id": "sajji-chicken-sajji-0",
+          "name": "Regular",
+          "price": 198000
+        }
+      ],
+      "source_page": 3,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "sajji-mutton-sajji",
+      "category": "Sajji",
+      "name": "MUTTON SAJJI",
+      "description": "Tender marinated mutton slow cooked just right, served with rice",
+      "variants": [
+        {
+          "id": "sajji-mutton-sajji-0",
+          "name": "Regular",
+          "price": 505000
+        }
+      ],
+      "source_page": 3,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "sajji-salim-bakra",
+      "category": "Sajji",
+      "name": "SALIM BAKRA",
+      "description": "(Pre Order) approx weight: 10kg served with kabuli rice.",
+      "variants": [
+        {
+          "id": "sajji-salim-bakra-0",
+          "name": "Regular",
+          "price": 3850000
+        }
+      ],
+      "source_page": 3,
+      "source_note": "Pre-order: approx. 10 kg, served with Kabuli rice; arrange with staff.",
+      "available": 0,
+      "preorder": 1,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-paneer-reshmi-handi",
+      "category": "Handi",
+      "name": "PANEER RESHMI HANDI",
+      "description": "A comforting blend of tender chicken, sweet corn, and aromatic spices in a hearty broth.",
+      "variants": [
+        {
+          "id": "handi-paneer-reshmi-handi-0",
+          "name": "Half",
+          "price": 203000
+        },
+        {
+          "id": "handi-paneer-reshmi-handi-1",
+          "name": "Full",
+          "price": 352000
+        }
+      ],
+      "source_page": 4,
+      "source_note": " Description appears mismatched in source PDF; owner confirmation needed.",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-chicken-makhni",
+      "category": "Handi",
+      "name": "CHICKEN MAKHNI",
+      "description": "Griled chicken in a rich, creamy red sauce that's our Chicken Makhni Handi.",
+      "variants": [
+        {
+          "id": "handi-chicken-makhni-0",
+          "name": "Half",
+          "price": 203000
+        },
+        {
+          "id": "handi-chicken-makhni-1",
+          "name": "Full",
+          "price": 352000
+        }
+      ],
+      "source_page": 4,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-chicken-handi",
+      "category": "Handi",
+      "name": "CHICKEN HANDI",
+      "description": "Spicy delight! Tender chicken in a traditional pot, bursting with flavors for spice lovers.",
+      "variants": [
+        {
+          "id": "handi-chicken-handi-0",
+          "name": "Half",
+          "price": 165000
+        },
+        {
+          "id": "handi-chicken-handi-1",
+          "name": "Full",
+          "price": 275000
+        }
+      ],
+      "source_page": 4,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-kabab-handi",
+      "category": "Handi",
+      "name": "KABAB HANDI",
+      "description": "Delicious BBQ Kabab in a tasty sauce, perfect for kabab lovers.",
+      "variants": [
+        {
+          "id": "handi-kabab-handi-0",
+          "name": "Half",
+          "price": 165000
+        },
+        {
+          "id": "handi-kabab-handi-1",
+          "name": "Full",
+          "price": 275000
+        }
+      ],
+      "source_page": 4,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-chicken-tikka-masala-handi",
+      "category": "Handi",
+      "name": "CHICKEN TIKKA MASALA HANDI",
+      "description": "Tikka masala flavors meet spicy red sauce in this handi for the ultimate delight.",
+      "variants": [
+        {
+          "id": "handi-chicken-tikka-masala-handi-0",
+          "name": "Half",
+          "price": 165000
+        },
+        {
+          "id": "handi-chicken-tikka-masala-handi-1",
+          "name": "Full",
+          "price": 275000
+        }
+      ],
+      "source_page": 4,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-chicken-achari-handi",
+      "category": "Handi",
+      "name": "CHICKEN ACHARI HANDI",
+      "description": "Zesty and flavorful chicken achari handi, combining tangy pickled spices with tender chicken for a taste explosion.",
+      "variants": [
+        {
+          "id": "handi-chicken-achari-handi-0",
+          "name": "Half",
+          "price": 165000
+        },
+        {
+          "id": "handi-chicken-achari-handi-1",
+          "name": "Full",
+          "price": 275000
+        }
+      ],
+      "source_page": 4,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "handi-daal-makhni",
+      "category": "Handi",
+      "name": "DAAL MAKHNI",
+      "description": "Rich, buttery, and slow-cooked to perfection the true taste of Daal Makhni.",
+      "variants": [
+        {
+          "id": "handi-daal-makhni-0",
+          "name": "Half",
+          "price": 132000
+        },
+        {
+          "id": "handi-daal-makhni-1",
+          "name": "Full",
+          "price": 198000
+        }
+      ],
+      "source_page": 4,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-brown",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (BROWN)",
+      "description": "A savory, spiced chicken dish cooked to a rich, flavorful perfection in a traditional karahi",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-brown-0",
+          "name": "Half",
+          "price": 182000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-brown-1",
+          "name": "Full",
+          "price": 308000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-peshawari",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (PESHAWARI)",
+      "description": "Crafted with a blend of black pepper and salt, perfect for those who prefer a mild, non- spicy flavor experience.",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-peshawari-0",
+          "name": "Half",
+          "price": 182000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-peshawari-1",
+          "name": "Full",
+          "price": 308000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-balochi",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (BALOCHI)",
+      "description": "Hearty chicken dish seasoned with distinctive Balochi spices, delivering a flavorful taste adventure.",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-balochi-0",
+          "name": "Half",
+          "price": 182000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-balochi-1",
+          "name": "Full",
+          "price": 308000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-white",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (WHITE)",
+      "description": "A creamy and mildly spiced chicken delicacy cooked to perfection in a white, flavorful sauce.",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-white-0",
+          "name": "Half",
+          "price": 182000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-white-1",
+          "name": "Full",
+          "price": 308000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-makhni",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (MAKHNI)",
+      "description": "Tender chicken cooked in a rich, buttery sauce for a delightful and creamy twist on the traditional Karahi.",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-makhni-0",
+          "name": "Half",
+          "price": 192000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-makhni-1",
+          "name": "Full",
+          "price": 330000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-dry",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (DRY)",
+      "description": "Spiced chicken cooked without sauce for a tasty, dry variation.",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-dry-0",
+          "name": "Half",
+          "price": 192000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-dry-1",
+          "name": "Full",
+          "price": 308000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chicken-karahi-chicken-karahi-green",
+      "category": "Chicken Karahi",
+      "name": "CHICKEN KARAHI (GREEN)",
+      "description": "A vibrant and herb-infused chicken dish, bursting with fresh flavors and aromatic green spices",
+      "variants": [
+        {
+          "id": "chicken-karahi-chicken-karahi-green-0",
+          "name": "Half",
+          "price": 192000
+        },
+        {
+          "id": "chicken-karahi-chicken-karahi-green-1",
+          "name": "Full",
+          "price": 330000
+        }
+      ],
+      "source_page": 5,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-brown",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (BROWN)",
+      "description": "A savory, spiced mutton dish cooked to a rich, flavorful perfection in a traditional karahi",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-brown-0",
+          "name": "Half",
+          "price": 290000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-brown-1",
+          "name": "Full",
+          "price": 520000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-peshawari",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (PESHAWARI)",
+      "description": "Crafted with a blend of black pepper and salt, perfect for those who prefer a mild, non- spicy flavor experience.",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-peshawari-0",
+          "name": "Half",
+          "price": 290000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-peshawari-1",
+          "name": "Full",
+          "price": 520000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-balochi",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (BALOCHI)",
+      "description": "Hearty mutton dish seasoned with distinctive Balochi spices, delivering a flavorful taste adventure.",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-balochi-0",
+          "name": "Half",
+          "price": 264000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-balochi-1",
+          "name": "Full",
+          "price": 473000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-white",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (WHITE)",
+      "description": "A creamy and mildly spiced mutton delicacy cooked to perfection in a white, flavorful sauce.",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-white-0",
+          "name": "Half",
+          "price": 300000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-white-1",
+          "name": "Full",
+          "price": 530000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-makhni",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (MAKHNI)",
+      "description": "Tender mutton cooked in a rich, buttery sauce for a delightful and creamy twist on the traditional Karahi.",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-makhni-0",
+          "name": "Half",
+          "price": 300000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-makhni-1",
+          "name": "Full",
+          "price": 530000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-dry",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (DRY)",
+      "description": "Spiced mutton cooked without sauce for a tasty, dry variation.",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-dry-0",
+          "name": "Half",
+          "price": 264000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-dry-1",
+          "name": "Full",
+          "price": 473000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "mutton-karahi-mutton-karahi-green",
+      "category": "Mutton Karahi",
+      "name": "MUTTON KARAHI (GREEN)",
+      "description": "A vibrant and herb-infused mutton dish, bursting with fresh flavors and aromatic green spices",
+      "variants": [
+        {
+          "id": "mutton-karahi-mutton-karahi-green-0",
+          "name": "Half",
+          "price": 300000
+        },
+        {
+          "id": "mutton-karahi-mutton-karahi-green-1",
+          "name": "Full",
+          "price": 530000
+        }
+      ],
+      "source_page": 6,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-platters-traditional-bbq-platter",
+      "category": "BBQ Platters",
+      "name": "TRADITIONAL BBQ PLATTER",
+      "description": "Includes Malai Boti, Chicken Behari Boti, Turkish Kabab, Beef Behari Boti, and Seekh Kabab, served with rice, (PERFECT FOR 3 OR 4 PERSONS)",
+      "variants": [
+        {
+          "id": "bbq-platters-traditional-bbq-platter-0",
+          "name": "Regular",
+          "price": 440000
+        }
+      ],
+      "source_page": 7,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-platters-royal-bbq-platter",
+      "category": "BBQ Platters",
+      "name": "ROYAL BBQ PLATTER",
+      "description": "Includes Muton Chops, Afghani Boti, Malai Boti, and Turkish Kabab, al served with rice and (GOOD FOR 2-3 PERSONS)",
+      "variants": [
+        {
+          "id": "bbq-platters-royal-bbq-platter-0",
+          "name": "Regular",
+          "price": 550000
+        }
+      ],
+      "source_page": 7,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-platters-mehran-special-bbq-platter",
+      "category": "BBQ Platters",
+      "name": "MEHRAN SPECIAL BBQ PLATTER",
+      "description": "Includes Mutton Ribs, Turkish Kabab, Malai Boti, Chicken Behari Boti, and Seekh Kabab. Served with rice and (GOOD FOR 4-5 PERSONS)",
+      "variants": [
+        {
+          "id": "bbq-platters-mehran-special-bbq-platter-0",
+          "name": "Regular",
+          "price": 825000
+        }
+      ],
+      "source_page": 7,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-platters-mehran-claassic-bbq-platter",
+      "category": "BBQ Platters",
+      "name": "MEHRAN CLAASSIC BBQ PLATTER",
+      "description": "Includes Chicken Bihari with Bone, Turkish Kabab, Malai Boti, Chicken Behari Boti, and Seekh Kabab. Served with rice and fries (GOOD FOR 2-3 PERSONS)",
+      "variants": [
+        {
+          "id": "bbq-platters-mehran-claassic-bbq-platter-0",
+          "name": "Regular",
+          "price": 270000
+        }
+      ],
+      "source_page": 7,
+      "source_note": " Original spelling preserved; appears similar to New Arrivals classic platter.",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chargha-b-b-q-grilled-chargha",
+      "category": "Chargha",
+      "name": "B.B.Q GRILLED CHARGHA",
+      "description": "Juicy, flavorful, and perfectly peri peri spiced our grilled Chicken Chargha is a feast you'll remember with every bite.",
+      "variants": [
+        {
+          "id": "chargha-b-b-q-grilled-chargha-0",
+          "name": "Half",
+          "price": 105000
+        },
+        {
+          "id": "chargha-b-b-q-grilled-chargha-1",
+          "name": "Full",
+          "price": 198000
+        }
+      ],
+      "source_page": 7,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chargha-lahori-fried-chargha",
+      "category": "Chargha",
+      "name": "LAHORI FRIED CHARGHA",
+      "description": "Juicy, flavorful, and perfectly spiced our Chicken Chargha is a feast you'll remember with every bite.",
+      "variants": [
+        {
+          "id": "chargha-lahori-fried-chargha-0",
+          "name": "Half",
+          "price": 105000
+        },
+        {
+          "id": "chargha-lahori-fried-chargha-1",
+          "name": "Full",
+          "price": 198000
+        }
+      ],
+      "source_page": 7,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-chicken-tikka-leg",
+      "category": "BBQ Temptations",
+      "name": "CHICKEN TIKKA (LEG)",
+      "description": "Smoky, spicy, and irresistibly juicy Chicken Tikka Leg perfection!",
+      "variants": [
+        {
+          "id": "bbq-temptations-chicken-tikka-leg-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-chicken-tikka-chest",
+      "category": "BBQ Temptations",
+      "name": "CHICKEN TIKKA (CHEST)",
+      "description": "Smoky, spicy, and irresistibly juicy Chicken Tikka Chest perfection!",
+      "variants": [
+        {
+          "id": "bbq-temptations-chicken-tikka-chest-0",
+          "name": "Regular",
+          "price": 54000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-malai-tikka-leg",
+      "category": "BBQ Temptations",
+      "name": "MALAI TIKKA (LEG)",
+      "description": "Creamy, juicy, and melt-in-your-mouth Malai Tikka Leg perfection!",
+      "variants": [
+        {
+          "id": "bbq-temptations-malai-tikka-leg-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-malai-tikka-chest",
+      "category": "BBQ Temptations",
+      "name": "MALAI TIKKA (CHEST)",
+      "description": "Tender, creamy, and bursting with flavor - Malai Tikka Chest done right!",
+      "variants": [
+        {
+          "id": "bbq-temptations-malai-tikka-chest-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-turkish-kabab",
+      "category": "BBQ Temptations",
+      "name": "TURKISH KABAB",
+      "description": "Juicy minced chicken kebabs Grilled perfection with a cheesy twist for a delightful taste.",
+      "variants": [
+        {
+          "id": "bbq-temptations-turkish-kabab-0",
+          "name": "Regular",
+          "price": 115000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-chicken-malai-boti",
+      "category": "BBQ Temptations",
+      "name": "CHICKEN MALAI BOTI",
+      "description": "(Creamy and tender, Chicken Malai Boti offers a delectable blend of flavors in every bite)",
+      "variants": [
+        {
+          "id": "bbq-temptations-chicken-malai-boti-0",
+          "name": "Regular",
+          "price": 105000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-chicken-behari-boti-boneless",
+      "category": "BBQ Temptations",
+      "name": "CHICKEN BEHARI BOTI (BONELESS)",
+      "description": "Spiced to perfection, Chicken Behari Boti promises a flavorful and satisfying grilled experience)",
+      "variants": [
+        {
+          "id": "bbq-temptations-chicken-behari-boti-boneless-0",
+          "name": "Regular",
+          "price": 105000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-chicken-reshmi-kabab",
+      "category": "BBQ Temptations",
+      "name": "CHICKEN RESHMI KABAB",
+      "description": "Juicy minced chicken kebabs, perfectly grilled for a delightful taste.",
+      "variants": [
+        {
+          "id": "bbq-temptations-chicken-reshmi-kabab-0",
+          "name": "Regular",
+          "price": 95000
+        }
+      ],
+      "source_page": 8,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-seekh-kabab",
+      "category": "BBQ Temptations",
+      "name": "SEEKH KABAB",
+      "description": "best!",
+      "variants": [
+        {
+          "id": "bbq-temptations-seekh-kabab-0",
+          "name": "Regular",
+          "price": 108000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-beef-behari-boti",
+      "category": "BBQ Temptations",
+      "name": "BEEF BEHARI BOTI",
+      "description": "Tender, spicy, and irresistibly smoky Beef Behari Boti you'll crave again!",
+      "variants": [
+        {
+          "id": "bbq-temptations-beef-behari-boti-0",
+          "name": "Regular",
+          "price": 110000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-afghani-boti",
+      "category": "BBQ Temptations",
+      "name": "AFGHANI BOTI",
+      "description": "BBQ delight!",
+      "variants": [
+        {
+          "id": "bbq-temptations-afghani-boti-0",
+          "name": "Regular",
+          "price": 99000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-mutton-chops-masala",
+      "category": "BBQ Temptations",
+      "name": "MUTTON CHOPS (MASALA)",
+      "description": "Tender mutton chops cooked in a fragrant spice blend for a hearty and flavorful dish",
+      "variants": [
+        {
+          "id": "bbq-temptations-mutton-chops-masala-0",
+          "name": "Regular",
+          "price": 265000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-mutton-chops-namkeen",
+      "category": "BBQ Temptations",
+      "name": "MUTTON CHOPS (NAMKEEN)",
+      "description": "Tender mutton chops seasoned with a delightful salty twist for a flavorful experience MUTTON CHATPATI RAAN (WITH RICE) Perfect for 2-3 persons, enjoy the flavorful delight of marinated and roasted mutton leg (Approx weight: 1~1.30 kg)",
+      "variants": [
+        {
+          "id": "bbq-temptations-mutton-chops-namkeen-0",
+          "name": "Regular",
+          "price": 265000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-mutton-chatpati-raan-with-rice",
+      "category": "BBQ Temptations",
+      "name": "MUTTON CHATPATI RAAN (WITH RICE)",
+      "description": "",
+      "variants": [
+        {
+          "id": "bbq-temptations-mutton-chatpati-raan-with-rice-0",
+          "name": "Regular",
+          "price": 550000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-mutton-ribs-with-rice",
+      "category": "BBQ Temptations",
+      "name": "MUTTON RIBS (WITH RICE)",
+      "description": "Succulent and tender mutton ribs, expertly cooked for a satisfying dining experience",
+      "variants": [
+        {
+          "id": "bbq-temptations-mutton-ribs-with-rice-0",
+          "name": "Regular",
+          "price": 550000
+        }
+      ],
+      "source_page": 9,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "bbq-temptations-mehran-signature-kebab",
+      "category": "BBQ Temptations",
+      "name": "MEHRAN SIGNATURE KEBAB",
+      "description": "Juicy chicken or beef kabab wrapped in soft naan dough, griled to perfection, then cut into pieces and served with crispy fries, fresh salad, and sauce",
+      "variants": [
+        {
+          "id": "bbq-temptations-mehran-signature-kebab-0",
+          "name": "Regular",
+          "price": 143000
+        }
+      ],
+      "source_page": 9,
+      "source_note": " Also listed on page 2 / page 9 at the same price.",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-manchurian",
+      "category": "Chinese",
+      "name": "CHICKEN MANCHURIAN",
+      "description": "that hits the spot!",
+      "variants": [
+        {
+          "id": "chinese-chicken-manchurian-0",
+          "name": "Regular",
+          "price": 132000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-chowmein",
+      "category": "Chinese",
+      "name": "CHICKEN CHOWMEIN",
+      "description": "Savory noodles tossed to perfection Chicken Chowmein you'll crave again!",
+      "variants": [
+        {
+          "id": "chinese-chicken-chowmein-0",
+          "name": "Regular",
+          "price": 132000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-fried-rice",
+      "category": "Chinese",
+      "name": "CHICKEN FRIED RICE",
+      "description": "Fragrant rice loaded with flavor Chicken Fried Rice at its best!",
+      "variants": [
+        {
+          "id": "chinese-chicken-fried-rice-0",
+          "name": "Regular",
+          "price": 77000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-shashlik",
+      "category": "Chinese",
+      "name": "CHICKEN SHASHLIK",
+      "description": "(SERVED WITH FRIED RICE)",
+      "variants": [
+        {
+          "id": "chinese-chicken-shashlik-0",
+          "name": "Regular",
+          "price": 132000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-chilli-dry",
+      "category": "Chinese",
+      "name": "CHICKEN CHILLI DRY",
+      "description": "(SERVED WITH FRIED RICE)",
+      "variants": [
+        {
+          "id": "chinese-chicken-chilli-dry-0",
+          "name": "Regular",
+          "price": 132000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-jalfrezi",
+      "category": "Chinese",
+      "name": "CHICKEN JALFREZI",
+      "description": "(SERVED WITH FRIED RICE)",
+      "variants": [
+        {
+          "id": "chinese-chicken-jalfrezi-0",
+          "name": "Regular",
+          "price": 132000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-chicken-chilli-vegetable",
+      "category": "Chinese",
+      "name": "CHICKEN CHILLI VEGETABLE",
+      "description": "(SERVED WITH FRIED RICE)",
+      "variants": [
+        {
+          "id": "chinese-chicken-chilli-vegetable-0",
+          "name": "Regular",
+          "price": 132000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-vegetable-fried-rice",
+      "category": "Chinese",
+      "name": "VEGETABLE FRIED RICE",
+      "description": "Colorful veggies and fragrant rice come together for the perfect bite!",
+      "variants": [
+        {
+          "id": "chinese-vegetable-fried-rice-0",
+          "name": "Regular",
+          "price": 77000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "chinese-plain-rice",
+      "category": "Chinese",
+      "name": "PLAIN RICE",
+      "description": "Simple, fluffy, and perfectly cooked timeless comfort on a plate!",
+      "variants": [
+        {
+          "id": "chinese-plain-rice-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 10,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tawa-katakat",
+      "category": "Tawa",
+      "name": "KATAKAT",
+      "description": "Our Katakat is a sizzling symphony of spices and flavors, cooked to perfection for a truly unforgettable desi delight!",
+      "variants": [
+        {
+          "id": "tawa-katakat-0",
+          "name": "Regular",
+          "price": 209000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tawa-brain-masala",
+      "category": "Tawa",
+      "name": "BRAIN MASALA",
+      "description": "Rich, creamy, and bursting with bold desi flavors our Brain Masala is pure indulgence!",
+      "variants": [
+        {
+          "id": "tawa-brain-masala-0",
+          "name": "Regular",
+          "price": 209000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tawa-chicken-boneless-katakat",
+      "category": "Tawa",
+      "name": "CHICKEN BONELESS KATAKAT",
+      "description": "Tender, juicy chicken cooked to perfection with rich spices our Boneless Katakat is a true flavor feast!",
+      "variants": [
+        {
+          "id": "tawa-chicken-boneless-katakat-0",
+          "name": "Regular",
+          "price": 231000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tawa-tawa-karahi",
+      "category": "Tawa",
+      "name": "TAWA KARAHI",
+      "description": "Sizzling, spicy, and packed with bold flavors our Tawa Karahi is desi comfort at its best!",
+      "variants": [
+        {
+          "id": "tawa-tawa-karahi-0",
+          "name": "Regular",
+          "price": 290000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "add-ons-single-mutton-piece",
+      "category": "Add-ons",
+      "name": "SINGLE MUTTON PIECE",
+      "description": "(Add it to Katakat or Brain Masala)",
+      "variants": [
+        {
+          "id": "add-ons-single-mutton-piece-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "add-ons-single-mutton-brain",
+      "category": "Add-ons",
+      "name": "SINGLE MUTTON BRAIN",
+      "description": "(Add it to Katakat or Brain Masala)",
+      "variants": [
+        {
+          "id": "add-ons-single-mutton-brain-0",
+          "name": "Regular",
+          "price": 95000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "add-ons-extra-butter",
+      "category": "Add-ons",
+      "name": "EXTRA BUTTER",
+      "description": "(SERVED WITH FRIED RICE)",
+      "variants": [
+        {
+          "id": "add-ons-extra-butter-0",
+          "name": "Regular",
+          "price": 20000
+        }
+      ],
+      "source_page": 11,
+      "source_note": "Gulshan branch only; unavailable for Garden.",
+      "available": 0,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "sidelines-fresh-green-salad",
+      "category": "Sidelines",
+      "name": "FRESH GREEN SALAD",
+      "description": "",
+      "variants": [
+        {
+          "id": "sidelines-fresh-green-salad-0",
+          "name": "Regular",
+          "price": 25000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "sidelines-raita",
+      "category": "Sidelines",
+      "name": "RAITA",
+      "description": "",
+      "variants": [
+        {
+          "id": "sidelines-raita-0",
+          "name": "Regular",
+          "price": 11000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tandoor-plain-naan",
+      "category": "Tandoor",
+      "name": "PLAIN NAAN",
+      "description": "",
+      "variants": [
+        {
+          "id": "tandoor-plain-naan-0",
+          "name": "Regular",
+          "price": 6000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tandoor-rogni-naan",
+      "category": "Tandoor",
+      "name": "ROGNI NAAN",
+      "description": "",
+      "variants": [
+        {
+          "id": "tandoor-rogni-naan-0",
+          "name": "Regular",
+          "price": 11000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tandoor-garlic-naan",
+      "category": "Tandoor",
+      "name": "GARLIC NAAN",
+      "description": "",
+      "variants": [
+        {
+          "id": "tandoor-garlic-naan-0",
+          "name": "Regular",
+          "price": 12000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tandoor-chapati",
+      "category": "Tandoor",
+      "name": "CHAPATI",
+      "description": "",
+      "variants": [
+        {
+          "id": "tandoor-chapati-0",
+          "name": "Regular",
+          "price": 4500
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tandoor-paratha",
+      "category": "Tandoor",
+      "name": "PARATHA",
+      "description": "",
+      "variants": [
+        {
+          "id": "tandoor-paratha-0",
+          "name": "Regular",
+          "price": 13000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "tandoor-lal-roti",
+      "category": "Tandoor",
+      "name": "LAL ROTI",
+      "description": "",
+      "variants": [
+        {
+          "id": "tandoor-lal-roti-0",
+          "name": "Regular",
+          "price": 6500
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "dessert-matka-kheer-single-serving",
+      "category": "Dessert",
+      "name": "Matka KHEER (SINGLE SERVING)",
+      "description": "",
+      "variants": [
+        {
+          "id": "dessert-matka-kheer-single-serving-0",
+          "name": "Regular",
+          "price": 30000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "dessert-kunafa-cream",
+      "category": "Dessert",
+      "name": "KUNAFA (CREAM)",
+      "description": "",
+      "variants": [
+        {
+          "id": "dessert-kunafa-cream-0",
+          "name": "Regular",
+          "price": 105000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "dessert-kunafa-cheeese",
+      "category": "Dessert",
+      "name": "KUNAFA (CHEEESE)",
+      "description": "",
+      "variants": [
+        {
+          "id": "dessert-kunafa-cheeese-0",
+          "name": "Regular",
+          "price": 105000
+        }
+      ],
+      "source_page": 12,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "milk-based-mocktails-pi-a-colada",
+      "category": "Milk-based Mocktails",
+      "name": "PIÑA COLADA",
+      "description": "CREAMY COCONUT AND PINEAPPLE BLENDED INTO A RICH TROPICAL CLASSIC.",
+      "variants": [
+        {
+          "id": "milk-based-mocktails-pi-a-colada-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "milk-based-mocktails-blue-colada",
+      "category": "Milk-based Mocktails",
+      "name": "BLUE COLADA",
+      "description": "A VISUALLY STUNNING TWIST ON THE CLASSIC PIÑA COLADA WITH A FRUITY BLUE HUE.",
+      "variants": [
+        {
+          "id": "milk-based-mocktails-blue-colada-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "milk-based-mocktails-strawberry-colada",
+      "category": "Milk-based Mocktails",
+      "name": "STRAWBERRY COLADA",
+      "description": "SMOOTH COCONUT BLENDED WITH RIPE STRAWBERRIES FOR A SWEET TROPICAL TREAT.",
+      "variants": [
+        {
+          "id": "milk-based-mocktails-strawberry-colada-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "milk-based-mocktails-peach-colada",
+      "category": "Milk-based Mocktails",
+      "name": "PEACH COLADA",
+      "description": "CREAMY COCONUT INFUSED WITH JUICY PEACH FOR A SOFT TROPICAL FLAVOR.",
+      "variants": [
+        {
+          "id": "milk-based-mocktails-peach-colada-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "milk-based-mocktails-lassi",
+      "category": "Milk-based Mocktails",
+      "name": "LASSI",
+      "description": "",
+      "variants": [
+        {
+          "id": "milk-based-mocktails-lassi-0",
+          "name": "Regular",
+          "price": 30000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "milk-based-mocktails-lassi-namkeen",
+      "category": "Milk-based Mocktails",
+      "name": "LASSI (NAMKEEN)",
+      "description": "",
+      "variants": [
+        {
+          "id": "milk-based-mocktails-lassi-namkeen-0",
+          "name": "Regular",
+          "price": 30000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "fresh-juices-apple-juice",
+      "category": "Fresh Juices",
+      "name": "APPLE JUICE",
+      "description": "NATURALLY SWEET, FRESHLY PRESSED APPLES FOR A CLEAN AND HEALTHY BOOST.",
+      "variants": [
+        {
+          "id": "fresh-juices-apple-juice-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "fresh-juices-fresh-orange",
+      "category": "Fresh Juices",
+      "name": "FRESH ORANGE",
+      "description": "COLD-PRESSED ORANGES BURSTING WITH NATURAL CITRUS GOODNESS.",
+      "variants": [
+        {
+          "id": "fresh-juices-fresh-orange-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "fresh-juices-grape-fruit",
+      "category": "Fresh Juices",
+      "name": "GRAPE FRUIT",
+      "description": "COLD-PRESSED GRAPE FRUIT BURSTING WITH NATURAL CITRUS GOODNESS.",
+      "variants": [
+        {
+          "id": "fresh-juices-grape-fruit-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "fresh-juices-anar",
+      "category": "Fresh Juices",
+      "name": "ANAR",
+      "description": "FRESH POMEGRANATE JUICE PACKED WITH ANTIOXIDANTS AND BOLD FLAVOR.",
+      "variants": [
+        {
+          "id": "fresh-juices-anar-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "fresh-juices-watermelon-juice",
+      "category": "Fresh Juices",
+      "name": "WATERMELON JUICE",
+      "description": "NATURALLY SWEET, FRESHLY PRESSED WATER- MELON FOR A CLEAN AND HEALTHY BOOST.",
+      "variants": [
+        {
+          "id": "fresh-juices-watermelon-juice-0",
+          "name": "Regular",
+          "price": 40000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "fresh-juices-abc-detox",
+      "category": "Fresh Juices",
+      "name": "ABC DETOX",
+      "description": "A REVITALIZING BLEND OF APPLE, BEET, AND CARROT FOR A NATURAL DETOX.",
+      "variants": [
+        {
+          "id": "fresh-juices-abc-detox-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "craft-shakes-strawberry-cheesecake-shake",
+      "category": "Craft Shakes",
+      "name": "STRAWBERRY CHEESECAKE SHAKE",
+      "description": "CREAMY CHEESECAKE BLENDED WITH FRESH STRAWBERRIES FOR A DESSERT-LIKE INDULGENCE.",
+      "variants": [
+        {
+          "id": "craft-shakes-strawberry-cheesecake-shake-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "craft-shakes-classic-vanilla-shake",
+      "category": "Craft Shakes",
+      "name": "CLASSIC VANILLA SHAKE",
+      "description": "SMOOTH, CREAMY VANILLA SHAKE—REAL VANILLA ICE CREAM SWIRLED WITH FRESH MILK, A CLASSIC COMFORT IN EVERY SIP.",
+      "variants": [
+        {
+          "id": "craft-shakes-classic-vanilla-shake-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "craft-shakes-chocolate-shake",
+      "category": "Craft Shakes",
+      "name": "CHOCOLATE SHAKE",
+      "description": "RICH CHOCOLATE BLENDED INTO A THICK AND SATISFYING SHAKE.",
+      "variants": [
+        {
+          "id": "craft-shakes-chocolate-shake-0",
+          "name": "Regular",
+          "price": 80000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "craft-shakes-banana-cream-shake",
+      "category": "Craft Shakes",
+      "name": "BANANA CREAM SHAKE",
+      "description": "RIPE BANANAS BLENDED WITH CREAMY GOODNESS FOR A SMOOTH CLASSIC.",
+      "variants": [
+        {
+          "id": "craft-shakes-banana-cream-shake-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "craft-shakes-oreo-shake",
+      "category": "Craft Shakes",
+      "name": "OREO SHAKE",
+      "description": "COOKIES 'N CREAM PERFECTION!  OUR OREO SHAKE BLENDS RICH VANILLA ICE CREAM WITH CRUNCHY OREO BITS, TOPPED WITH WHIPPED CREAM AND AN OREO COOKIE ON TOP.",
+      "variants": [
+        {
+          "id": "craft-shakes-oreo-shake-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "beverages-cold-drink-can",
+      "category": "Beverages",
+      "name": "COLD DRINK (CAN)",
+      "description": "",
+      "variants": [
+        {
+          "id": "beverages-cold-drink-can-0",
+          "name": "Regular",
+          "price": 19000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "beverages-cold-drink-1-5-litre",
+      "category": "Beverages",
+      "name": "COLD DRINK (1.5 LITRE)",
+      "description": "",
+      "variants": [
+        {
+          "id": "beverages-cold-drink-1-5-litre-0",
+          "name": "Regular",
+          "price": 32000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "beverages-mineral-water-small",
+      "category": "Beverages",
+      "name": "MINERAL WATER (SMALL)",
+      "description": "",
+      "variants": [
+        {
+          "id": "beverages-mineral-water-small-0",
+          "name": "Regular",
+          "price": 13000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "beverages-mineral-water-large",
+      "category": "Beverages",
+      "name": "MINERAL WATER (LARGE)",
+      "description": "",
+      "variants": [
+        {
+          "id": "beverages-mineral-water-large-0",
+          "name": "Regular",
+          "price": 20000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "beverages-doodh-patti-chai",
+      "category": "Beverages",
+      "name": "DOODH PATTI CHAI",
+      "description": "",
+      "variants": [
+        {
+          "id": "beverages-doodh-patti-chai-0",
+          "name": "Regular",
+          "price": 18000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "beverages-green-tea",
+      "category": "Beverages",
+      "name": "GREEN TEA",
+      "description": "",
+      "variants": [
+        {
+          "id": "beverages-green-tea-0",
+          "name": "Regular",
+          "price": 18000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-fresh-lime",
+      "category": "Signature Mocktails",
+      "name": "FRESH LIME",
+      "description": "A CRISP AND REFRESHING BLEND OF FRESH LIME JUICE WITH A PERFECTLY BALANCED SWEET-TANGY FINISH.",
+      "variants": [
+        {
+          "id": "signature-mocktails-fresh-lime-0",
+          "name": "Regular",
+          "price": 30000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-lemon-margarita",
+      "category": "Signature Mocktails",
+      "name": "LEMON MARGARITA",
+      "description": "ZESTY LEMON SHAKEN TO PERFECTION FOR A BOLD, CITRUS-FORWARD REFRESHMENT.",
+      "variants": [
+        {
+          "id": "signature-mocktails-lemon-margarita-0",
+          "name": "Regular",
+          "price": 35000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-mint-margarita",
+      "category": "Signature Mocktails",
+      "name": "MINT MARGARITA",
+      "description": "COOL MINT MEETS SHARP CITRUS FOR AN ENERGIZING AND REFRESHING MOCKTAIL.",
+      "variants": [
+        {
+          "id": "signature-mocktails-mint-margarita-0",
+          "name": "Regular",
+          "price": 40000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-blueberry-margarita",
+      "category": "Signature Mocktails",
+      "name": "BLUEBERRY MARGARITA",
+      "description": "JUICY BLUEBERRIES BLENDED WITH CITRUS FOR A SMOOTH, FRUITY INDULGENCE.",
+      "variants": [
+        {
+          "id": "signature-mocktails-blueberry-margarita-0",
+          "name": "Regular",
+          "price": 40000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-peach-margarita",
+      "category": "Signature Mocktails",
+      "name": "PEACH MARGARITA",
+      "description": "SWEET PEACH NOTES BALANCED WITH CITRUS FOR A LIGHT AND REFRESHING SIP.",
+      "variants": [
+        {
+          "id": "signature-mocktails-peach-margarita-0",
+          "name": "Regular",
+          "price": 40000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-golden-dragon",
+      "category": "Signature Mocktails",
+      "name": "GOLDEN DRAGON",
+      "description": "AN EXOTIC FUSION OF TROPICAL FRUITS WITH A BOLD, VIBRANT FINISH.",
+      "variants": [
+        {
+          "id": "signature-mocktails-golden-dragon-0",
+          "name": "Regular",
+          "price": 45000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "signature-mocktails-pineapple-joy",
+      "category": "Signature Mocktails",
+      "name": "PINEAPPLE JOY",
+      "description": "TROPICAL PINEAPPLE BLENDED FOR A SWEET, SUNNY REFRESHMENT.",
+      "variants": [
+        {
+          "id": "signature-mocktails-pineapple-joy-0",
+          "name": "Regular",
+          "price": 45000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "coffee-frappes-coffee-frapp",
+      "category": "Coffee Frappes",
+      "name": "COFFEE FRAPPÉ",
+      "description": "BLENDED ICED COFFEE FOR A SMOOTH, FROSTY REFRESHMENT.",
+      "variants": [
+        {
+          "id": "coffee-frappes-coffee-frapp-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "coffee-frappes-mocha-frapp",
+      "category": "Coffee Frappes",
+      "name": "MOCHA FRAPPÉ",
+      "description": "COFFEE BLENDED WITH CHOCOLATE FOR A RICH ICY DRINK.",
+      "variants": [
+        {
+          "id": "coffee-frappes-mocha-frapp-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "coffee-frappes-caramel-frapp",
+      "category": "Coffee Frappes",
+      "name": "CARAMEL FRAPPÉ",
+      "description": "SWEET CARAMEL BLENDED INTO A CREAMY ICED COFFEE.",
+      "variants": [
+        {
+          "id": "coffee-frappes-caramel-frapp-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "coffee-frappes-vanilla-frapp",
+      "category": "Coffee Frappes",
+      "name": "VANILLA FRAPPÉ",
+      "description": "SMOOTH VANILLA BLENDED INTO A REFRESHING ICY TREAT.",
+      "variants": [
+        {
+          "id": "coffee-frappes-vanilla-frapp-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "coffee-frappes-hazelnut-frapp",
+      "category": "Coffee Frappes",
+      "name": "HAZELNUT FRAPPÉ",
+      "description": "NUTTY HAZELNUT FLAVOR BLENDED WITH",
+      "variants": [
+        {
+          "id": "coffee-frappes-hazelnut-frapp-0",
+          "name": "Regular",
+          "price": 65000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "coffee-frappes-chocolate-frapp",
+      "category": "Coffee Frappes",
+      "name": "CHOCOLATE FRAPPÉ",
+      "description": "RICH CHOCOLATE BLENDED INTO A THICK, FROSTY DRINK.",
+      "variants": [
+        {
+          "id": "coffee-frappes-chocolate-frapp-0",
+          "name": "Regular",
+          "price": 65000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-espresso-shot",
+      "category": "Hot Coffee",
+      "name": "ESPRESSO SHOT",
+      "description": "A BOLD, RICH SHOT OF FINELY BREWED COFFEE WITH INTENSE FLAVOR.",
+      "variants": [
+        {
+          "id": "hot-coffee-espresso-shot-0",
+          "name": "Single",
+          "price": 35000
+        },
+        {
+          "id": "hot-coffee-espresso-shot-1",
+          "name": "Double",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-americano",
+      "category": "Hot Coffee",
+      "name": "AMERICANO",
+      "description": "SMOOTH ESPRESSO DILUTED WITH HOT WATER FOR A BALANCED TASTE.",
+      "variants": [
+        {
+          "id": "hot-coffee-americano-0",
+          "name": "Regular",
+          "price": 45000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-cappuccino",
+      "category": "Hot Coffee",
+      "name": "CAPPUCCINO",
+      "description": "ESPRESSO TOPPED WITH STEAMED MILK AND VELVETY FOAM.",
+      "variants": [
+        {
+          "id": "hot-coffee-cappuccino-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-latte",
+      "category": "Hot Coffee",
+      "name": "LATTE",
+      "description": "CREAMY MILK BLENDED WITH ESPRESSO FOR A SMOOTH FINISH.",
+      "variants": [
+        {
+          "id": "hot-coffee-latte-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-flat-white",
+      "category": "Hot Coffee",
+      "name": "FLAT WHITE",
+      "description": "SILKY STEAMED MILK LAYERED OVER RICH ESPRESSO.",
+      "variants": [
+        {
+          "id": "hot-coffee-flat-white-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-macchiato",
+      "category": "Hot Coffee",
+      "name": "MACCHIATO",
+      "description": "ESPRESSO LIGHTLY MARKED WITH STEAMED MILK.",
+      "variants": [
+        {
+          "id": "hot-coffee-macchiato-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-mocha",
+      "category": "Hot Coffee",
+      "name": "MOCHA",
+      "description": "ESPRESSO BLENDED WITH CHOCOLATE AND STEAMED MILK.",
+      "variants": [
+        {
+          "id": "hot-coffee-mocha-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-spanish-latte",
+      "category": "Hot Coffee",
+      "name": "SPANISH LATTE",
+      "description": "CREAMY, SWEETENED LATTE WITH A RICH ESPRESSO BASE.",
+      "variants": [
+        {
+          "id": "hot-coffee-spanish-latte-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-hazlenut-latte",
+      "category": "Hot Coffee",
+      "name": "HAZLENUT LATTE",
+      "description": "CREAMY, SWEETENED LATTE WITH A RICH ESPRESSO BASE.",
+      "variants": [
+        {
+          "id": "hot-coffee-hazlenut-latte-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-caramel-latte",
+      "category": "Hot Coffee",
+      "name": "CARAMEL LATTE",
+      "description": "SWEET ESCAPE ESPRESSO, STEAMED MILK, AND RICH CARAMEL SYRUP.",
+      "variants": [
+        {
+          "id": "hot-coffee-caramel-latte-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "hot-coffee-vanilla-latte",
+      "category": "Hot Coffee",
+      "name": "VANILLA LATTE",
+      "description": "SMOOTH & SUBTLE  ESPRESSO, STEAMED MILK, AND A HINT OF VANILLA SWEETNESS.",
+      "variants": [
+        {
+          "id": "hot-coffee-vanilla-latte-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 1,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-cappuccino",
+      "category": "Iced Coffee",
+      "name": "ICED CAPPUCCINO",
+      "description": "",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-cappuccino-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-spanish-latte",
+      "category": "Iced Coffee",
+      "name": "ICED SPANISH LATTE",
+      "description": "CREAMY, SWEETENED ICED LATTE WITH A RICH ESPRESSO BASE.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-spanish-latte-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-americano",
+      "category": "Iced Coffee",
+      "name": "ICED AMERICANO",
+      "description": "CHILLED ESPRESSO WITH WATER FOR A REFRESHING BOLD COFFEE.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-americano-0",
+          "name": "Regular",
+          "price": 50000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-oreo-coffee-latte",
+      "category": "Iced Coffee",
+      "name": "ICED OREO COFFEE LATTE",
+      "description": "COOKIES MEET COFFEE  ESPRESSO, MILK, OREO BITS, AND ICE - A CRUNCHY DELIGHT.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-oreo-coffee-latte-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-peanut-buttur-latte",
+      "category": "Iced Coffee",
+      "name": "ICED PEANUT BUTTUR LATTE",
+      "description": "NUTTY & BOLD  ESPRESSO, PEANUT BUTTER SYRUP, MILK, AND ICE - A CREAMY TWIST.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-peanut-buttur-latte-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-caramel-latte",
+      "category": "Iced Coffee",
+      "name": "ICED CARAMEL LATTE",
+      "description": "SILKY STEAMED MILK LAYERED OVER RICH ESPRESSO.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-caramel-latte-0",
+          "name": "Regular",
+          "price": 65000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-vanilla-latte",
+      "category": "Iced Coffee",
+      "name": "ICED VANILLA LATTE",
+      "description": "ESPRESSO LIGHTLY MARKED WITH STEAMED MILK.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-vanilla-latte-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-mocha-latte",
+      "category": "Iced Coffee",
+      "name": "ICED MOCHA LATTE",
+      "description": "ESPRESSO BLENDED WITH CHOCOLATE AND STEAMED MILK.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-mocha-latte-0",
+          "name": "Regular",
+          "price": 60000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-strawberry-latte",
+      "category": "Iced Coffee",
+      "name": "ICED STRAWBERRY LATTE",
+      "description": "STRAWBERRY DELIGHT FRESH STRAWBERRY PUREE, ESPRESSO, AND MILK, SERVED ICY COLD.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-strawberry-latte-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-lotus-latte",
+      "category": "Iced Coffee",
+      "name": "ICED LOTUS LATTE",
+      "description": "EXOTIC TWIST ESPRESSO, MILK, AND LOTUS FLAVOR, SERVED ICY COLD.",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-lotus-latte-0",
+          "name": "Regular",
+          "price": 70000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    },
+    {
+      "id": "iced-coffee-iced-latte",
+      "category": "Iced Coffee",
+      "name": "ICED LATTE",
+      "description": "",
+      "variants": [
+        {
+          "id": "iced-coffee-iced-latte-0",
+          "name": "Regular",
+          "price": 55000
+        }
+      ],
+      "source_page": 13,
+      "source_note": "",
+      "available": 1,
+      "preorder": 0,
+      "earns_stamp": 0,
+      "image": ""
+    }
+  ]
+}
