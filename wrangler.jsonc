@@ -13,7 +13,7 @@
     {
       "binding": "DB",
       "database_name": "mehran-grill",
-      "database_id": "REPLACE_WITH_D1_DATABASE_ID",
+      "database_id": "c3a8ed34-fcdf-46bf-8044-3c4ba0279270",
       "migrations_dir": "migrations"
     }
   ],
